@@ -2,7 +2,7 @@
 Compare and Contrast on different approaches of creating software in an Agile world
 
 
-# Test-driven Development
+# Test-driven development
 
 Benefits of TDD
 * Ensures guaranties of working software
@@ -12,7 +12,7 @@ Benefits of TDD
 Drawbacks of TDD
 * Miss the bugs in business logic
 
-# Behavior-driven Development
+# Behavior-driven development
 
 Benefits of BDD
 * Directly attempts to solve business logic (minimizes bugs)
